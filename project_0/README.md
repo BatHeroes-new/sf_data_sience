@@ -1,17 +1,17 @@
 # Поект 0. Угадывай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/BatHeroes-new/sf_data_sience/blob/main/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/BatHeroes-new/sf_data_sience/blob/main/project_0/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/BatHeroes-new/sf_data_sience/blob/main/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем](https://github.com/BatHeroes-new/sf_data_sience/blob/main/project_0/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/BatHeroes-new/sf_data_sience/blob/main/README.md#краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/BatHeroes-new/sf_data_sience/blob/main/project_0/README.md#краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/BatHeroes-new/sf_data_sience/blob/main/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/BatHeroes-new/sf_data_sience/blob/main/project_0/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/BatHeroes-new/sf_data_sience/blob/main/README.md#Результат)
+[5. Результат](https://github.com/BatHeroes-new/sf_data_sience/blob/main/project_0/README.md#Результат)
 
-[6. Выводы](https://github.com/BatHeroes-new/sf_data_sience/blob/main/README.md#Выводы)
+[6. Выводы](https://github.com/BatHeroes-new/sf_data_sience/blob/main/project_0/README.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
