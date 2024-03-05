@@ -1,13 +1,14 @@
 # Поект 1. Разработка кампании лояльности по удержанию клиентов
 
 ## Оглавление
-[1. Описание проекта](https://github.com/BatHeroes-new/sf_data_sience/blob/main/PYTHON-13._Визуализация_данных/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/BatHeroes-new/sf_data_sience/blob/main/PYTHON-13.%20Визуализация%20данных/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/BatHeroes-new/sf_data_sience/blob/main/PYTHON-13._Визуализация_данных/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем](https://github.com/BatHeroes-new/sf_data_sience/blob/main/PYTHON-13.%20Визуализация%20данных/README.md#Какой-кейс-решаем)
 
-[3. Что практикуем](https://github.com/BatHeroes-new/sf_data_sience/blob/main/PYTHON-13._Визуализация_данных/README.md#Что_практикуем)
+[3. Что практикуем](https://github.com/BatHeroes-new/sf_data_sience/blob/main/PYTHON-13.%20Визуализация%20данных/README.md#Что-практикуем)
 
-[4. Результат](https://github.com/BatHeroes-new/sf_data_sience/blob/main/PYTHON-13._Визуализация_данных/README.md#Результат)
+[4. Результат](https://github.com/BatHeroes-new/sf_data_sience/blob/main/PYTHON-13.%20Визуализация%20данных/README.md#Результат)
+
 ### Описание проекта
 Разрабатываем компанию лояльности исходя из оттока клиентов
 
